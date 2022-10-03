@@ -1,0 +1,24 @@
+{
+  "name": "sass-rocket-shop",
+  "description": "These are the starter files for the project of our Learn SASS Basics course.",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMEsparas/Sass-Rocket-Shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulMEsparas/Sass-Rocket-Shop/issues"
+  },
+  "homepage": "https://github.com/PaulMEsparas/Sass-Rocket-Shop#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
